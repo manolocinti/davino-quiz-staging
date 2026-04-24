@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" fill="none" stroke="#C9A84C" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-label="Abito Principesco">
+  <circle cx="60" cy="22" r="8"/>
+  <path d="M52 30 Q60 34 68 30"/>
+  <path d="M52 30 Q46 46 50 62"/>
+  <path d="M68 30 Q74 46 70 62"/>
+  <path d="M50 62 L54 78"/>
+  <path d="M70 62 L66 78"/>
+  <path d="M54 78 Q20 118 14 188"/>
+  <path d="M66 78 Q100 118 106 188"/>
+  <path d="M14 188 Q60 194 106 188"/>
+  <path d="M40 110 Q60 104 80 110" opacity="0.4"/>
+  <path d="M30 140 Q60 132 90 140" opacity="0.4"/>
+  <path d="M20 170 Q60 160 100 170" opacity="0.4"/>
+  <path d="M52 66 Q60 64 68 66" opacity="0.5"/>
+</svg>

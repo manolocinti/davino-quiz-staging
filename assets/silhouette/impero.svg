@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" fill="none" stroke="#C9A84C" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-label="Abito Stile Impero">
+  <circle cx="60" cy="22" r="8"/>
+  <path d="M52 30 Q60 34 68 30"/>
+  <path d="M52 30 L48 56"/>
+  <path d="M68 30 L72 56"/>
+  <path d="M48 56 L56 56"/>
+  <path d="M72 56 L64 56"/>
+  <path d="M46 56 Q36 120 32 188"/>
+  <path d="M74 56 Q84 120 88 188"/>
+  <path d="M32 188 Q60 192 88 188"/>
+  <path d="M48 56 Q60 52 72 56" opacity="0.5"/>
+  <path d="M42 110 Q60 106 78 110" opacity="0.3"/>
+  <path d="M36 160 Q60 156 84 160" opacity="0.3"/>
+</svg>

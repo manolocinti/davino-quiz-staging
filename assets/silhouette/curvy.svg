@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" fill="none" stroke="#C9A84C" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-label="Abito Curvy">
+  <circle cx="60" cy="22" r="8"/>
+  <path d="M50 30 Q60 34 70 30"/>
+  <path d="M50 30 Q38 50 44 68"/>
+  <path d="M70 30 Q82 50 76 68"/>
+  <path d="M44 68 Q48 82 52 82"/>
+  <path d="M76 68 Q72 82 68 82"/>
+  <path d="M52 82 Q60 80 68 82"/>
+  <path d="M52 82 Q42 110 36 140 Q30 170 28 188"/>
+  <path d="M68 82 Q78 110 84 140 Q90 170 92 188"/>
+  <path d="M28 188 Q60 192 92 188"/>
+  <path d="M50 46 Q60 42 70 46" opacity="0.5"/>
+  <path d="M42 118 Q60 114 78 118" opacity="0.3"/>
+  <path d="M34 158 Q60 154 86 158" opacity="0.3"/>
+</svg>

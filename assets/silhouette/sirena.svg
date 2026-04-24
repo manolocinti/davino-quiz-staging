@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" fill="none" stroke="#C9A84C" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-label="Abito a Sirena">
+  <circle cx="60" cy="22" r="8"/>
+  <path d="M52 30 Q60 34 68 30"/>
+  <path d="M52 30 Q46 46 50 60 L48 78 Q47 96 49 118 Q51 138 54 152"/>
+  <path d="M68 30 Q74 46 70 60 L72 78 Q73 96 71 118 Q69 138 66 152"/>
+  <path d="M54 152 Q40 168 30 184 L36 188 Q48 180 60 176 Q72 180 84 188 L90 184 Q80 168 66 152"/>
+  <path d="M54 60 Q60 58 66 60" opacity="0.5"/>
+  <path d="M52 78 Q60 76 68 78" opacity="0.4"/>
+  <path d="M49 118 Q60 116 71 118" opacity="0.4"/>
+</svg>

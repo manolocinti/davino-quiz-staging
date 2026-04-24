@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" fill="none" stroke="#C9A84C" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-label="Abito Corto">
+  <circle cx="60" cy="22" r="8"/>
+  <path d="M52 30 Q60 34 68 30"/>
+  <path d="M52 30 Q46 46 50 62"/>
+  <path d="M68 30 Q74 46 70 62"/>
+  <path d="M50 62 L44 110"/>
+  <path d="M70 62 L76 110"/>
+  <path d="M44 110 L36 124"/>
+  <path d="M76 110 L84 124"/>
+  <path d="M36 124 Q60 118 84 124"/>
+  <path d="M52 124 L52 168"/>
+  <path d="M68 124 L68 168"/>
+  <path d="M52 168 L50 180"/>
+  <path d="M68 168 L70 180"/>
+  <path d="M46 180 L54 180"/>
+  <path d="M66 180 L74 180"/>
+  <path d="M52 66 Q60 64 68 66" opacity="0.5"/>
+</svg>

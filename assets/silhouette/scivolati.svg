@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" fill="none" stroke="#C9A84C" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-label="Abito Scivolato">
+  <circle cx="60" cy="22" r="8"/>
+  <path d="M50 32 L46 48 L50 64"/>
+  <path d="M70 32 L74 48 L70 64"/>
+  <path d="M50 64 Q48 100 49 140 Q50 170 48 188"/>
+  <path d="M70 64 Q72 100 71 140 Q70 170 72 188"/>
+  <path d="M48 188 Q60 190 72 188"/>
+  <path d="M48 40 Q60 36 72 40" opacity="0.5"/>
+  <path d="M49 90 Q60 88 71 90" opacity="0.3"/>
+  <path d="M49 140 Q60 138 71 140" opacity="0.3"/>
+</svg>

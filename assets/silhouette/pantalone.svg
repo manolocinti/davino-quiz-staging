@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" fill="none" stroke="#C9A84C" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-label="Tuta Pantalone">
+  <circle cx="60" cy="22" r="8"/>
+  <path d="M52 30 Q60 34 68 30"/>
+  <path d="M52 30 Q46 46 50 62"/>
+  <path d="M68 30 Q74 46 70 62"/>
+  <path d="M50 62 L48 110"/>
+  <path d="M70 62 L72 110"/>
+  <path d="M48 110 Q60 108 72 110"/>
+  <path d="M50 110 L44 188"/>
+  <path d="M60 110 L60 188"/>
+  <path d="M70 110 L76 188"/>
+  <path d="M40 188 L50 188"/>
+  <path d="M54 188 L66 188"/>
+  <path d="M70 188 L80 188"/>
+  <path d="M52 40 L60 50 L68 40" opacity="0.5"/>
+</svg>
